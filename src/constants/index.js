@@ -156,7 +156,7 @@ const experiences = [
     ],
   },
   {
-    title: "Freelance Developer",
+    title: "T&T Smart Technology Solutions",
     company_name: "UI/UX",
     icon: meta,
     iconBg: "#E6DEDD",
@@ -246,7 +246,7 @@ const projects = [
       "An integrated cafe shop web platform that enables users to browse a variety of coffee blends, place orders, and discover personalized recommendations based on their taste preferences. This online hub provides a convenient and enjoyable way for coffee enthusiasts to explore and indulge in their favorite flavors.",
     tags: [
       {
-        name: "nextjs",
+        name: "reactnative",
         color: "blue-text-gradient",
       },
       {
